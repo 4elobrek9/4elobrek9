@@ -2,17 +2,11 @@
 
 
 
-<selection>
+
 
     <div id="header" align="center">
       <img src="https://i.gifer.com/HDoX.gif" width="100" />
     </div>
-
-    <div id="head2">
-        
-    </div>
-</selection>
-
 
     <div id="badges" align="center">
       <a href="http://t.me/+13262155064">
