@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.gifer.com/origin/51/5181501d0fdc22132c72582cfd5fe181_w200.webp" width="100"/></p>
+<p align="center"><img src="https://i.gifer.com/GwyA.gif" width="200"/></p>
 <p align="center">
 
 <div id="badges" align="center">
@@ -14,17 +14,13 @@
       </a>
     </div>
 
-
-
 </p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=4elobre9&style=flat-square&color=blue" alt=""></p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<h1 align="center">読者の皆さん、こんにちは。 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -33,7 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 
 ---
 
