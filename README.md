@@ -5,7 +5,7 @@
 <h3 align="center">check out my channels</h3>
 
 <div id="badges" align="center">
-      <a href="http://t.me/+13262155064">
+      <a href="https://t.me/mr_he11per">
         <img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon.png" alt="telegram Badge" height="30px"/>
       </a>
       <a href="https://www.youtube.com/@Mr.Helperus">
